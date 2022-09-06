@@ -1,0 +1,28 @@
+.box-signup{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    display: block;
+    margin-left: 35%;
+    margin-top: 15%;
+    background-color: khaki;
+    color:purple
+}
+ 
+input {
+    margin-left: 100px;
+    margin-top: 4%;
+    width : 70%
+}
+
+button {
+    width: 150px;
+    margin-top: 3%;
+    width: 100px;
+    height: 40px;
+    border: none;
+    background-color: olive;
+}
+#Enter-password{
+    padding-left: 350px;
+}

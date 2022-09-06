@@ -1,0 +1,14 @@
+.box-login{
+  width:  500px;
+  height: 500px;
+  border: 1px solid black;
+  display: block;
+
+}
+
+.box-signup{
+  width: 500px;
+  height:500px;
+  border: 1px solid black;
+  display: block;
+}
